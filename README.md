@@ -1,3 +1,8 @@
+# Actualization for the Unity 6.2
+Att for this asset to work with Unity 6.2. It includes new scripts to work with Input System, replacemente for the prefabs with the new scripts and a folder with the Input Actions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Character Movement Fundamentals
 ## What is this?
 This character controller package was originally released on the Unity Asset Store in 2019, updated with new content until 2021 and maintained (customer support, etc.) until January 2025.
